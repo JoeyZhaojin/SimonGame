@@ -1,2 +1,1 @@
-"# Web-journey" 
-This is a simple Simon Game completed by js.
+## Deployed on https://joeyzhaojin.github.io/SimonGame/
